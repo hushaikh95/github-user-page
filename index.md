@@ -20,3 +20,17 @@ Hi, I'm Humza. I am a junior computer science student interested primarily in fi
 ## Code Example
 ```python
 print("Hello, world!")
+
+```
+## Links
+- [Google](https://www.google.com)
+- [Go to Goals](#goals)
+- [README](README.md)
+
+## Task List
+- [x] Created GitHub repo
+- [x] Used Git branches
+- [ ] Publish site
+
+## Image
+![Placeholder](https://via.placeholder.com/150)
