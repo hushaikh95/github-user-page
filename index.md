@@ -33,4 +33,4 @@ print("Hello, world!")
 - [ ] Publish site
 
 ## Image
-![Placeholder](https://via.placeholder.com/150)
+![Placeholder](https://img.redbull.com/images/c_limit,w_1500,h_1000/f_auto,q_auto/redbullcom/2025/12/16/pihcddztoewda321wnxi/start-f1-grand-prix-of-spain-2025)
