@@ -1,3 +1,9 @@
+---
+layout: default
+title: Humza's User Page
+---
+
+
 # Humza's User Page
 
 ## About Me
