@@ -1,12 +1,13 @@
 # Humza's User Page
 
 ## About Me
-Hi, I'm Humza. I am a data science student interested in technology, business, and building impactful digital projects.
+Hi, I'm Humza. I am a junior computer science student interested primarily in fintech.I want to use my computer science skills to make impactful tools and applications in the financial industry. 
 
 ## Programming Interests
-- Data Science
+- Finance
 - Software Development
-- Marketing Technology
+- Investing
+- Data Science
 
 ## Goals
 1. Build real-world projects
@@ -14,7 +15,7 @@ Hi, I'm Humza. I am a data science student interested in technology, business, a
 3. Combine business and technology
 
 ## Quote
-> "Consistency is what builds success."
+> "Lick the stamp and send it."
 
 ## Code Example
 ```python
