@@ -24,7 +24,7 @@ print("Hello, world!")
 ```
 ## Links
 - [Google](https://www.google.com)
-- [Go to Goals](#goals)
+- [Go to About Me](#about-me)
 - [README](README.md)
 
 ## Task List
